@@ -1,0 +1,2 @@
+/Users/smanve/Monash/wordle-sol/build/CMakeFiles/edit_cache.dir
+/Users/smanve/Monash/wordle-sol/build/CMakeFiles/rebuild_cache.dir
